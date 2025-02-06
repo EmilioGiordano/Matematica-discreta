@@ -11,8 +11,6 @@ c. $12x+3y = 3n$$12x+3y = 3n$
     d. $129x−27y = 21$
     e. $131x+27y = 18$-->
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 ### Ejercicios de final
 Dada la ecuación diofántica $-300x + 230y = 50$(con $x,y ∈ \mathbb{Z}$):  
