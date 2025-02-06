@@ -1,5 +1,8 @@
 <!-- ### 4.4. Ecuaciones diofánticas
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 1. Analizar para qué valores de $n \in \mathbb{Z}$las siguientes ecuaciones tienen solución en $\mathbb{Z} ^2$.
 a. $15x+4y = n$
 b. $15x−5y = n$
