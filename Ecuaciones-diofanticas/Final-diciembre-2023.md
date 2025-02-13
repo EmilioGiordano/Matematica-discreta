@@ -64,9 +64,7 @@ Obtenemos que $D(a,b) = 10|50$
 
  
 8. __Invertir:__  
-    $50 = (300 \times -1) \times (50 \times -1) - (230 \times -1) \times (65 \times -1)$  
-    Obtenemos:  
-    $50 = -300 \times (-50) + 230 \times (-65) $  
+    $50 = (-300) \times (-50) + 230 \times (-65) $  
     Podemos observar que queda de la misma forma que $-300x + 230y = 50$  
 
     De este punto obtenemos que:  
